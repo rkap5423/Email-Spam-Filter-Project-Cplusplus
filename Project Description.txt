@@ -1,0 +1,5 @@
+This program takes emails inputted, whether manually one at a time or from 
+ an entire text file, and check/filters it against a loaded text file of spam emails. 
+
+Main.cpp contains the program I built from scratch; it utilizes a custom vector class built by 
+Professor Joe Hummel in "ourvector.h".
